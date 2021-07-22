@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/filter-airports/static/css/main.0464620e.chunk.css",
+    "main.js": "/filter-airports/static/js/main.b867257c.chunk.js",
+    "main.js.map": "/filter-airports/static/js/main.b867257c.chunk.js.map",
+    "runtime-main.js": "/filter-airports/static/js/runtime-main.702308df.js",
+    "runtime-main.js.map": "/filter-airports/static/js/runtime-main.702308df.js.map",
+    "static/js/2.5e925dca.chunk.js": "/filter-airports/static/js/2.5e925dca.chunk.js",
+    "static/js/2.5e925dca.chunk.js.map": "/filter-airports/static/js/2.5e925dca.chunk.js.map",
+    "index.html": "/filter-airports/index.html",
+    "static/css/main.0464620e.chunk.css.map": "/filter-airports/static/css/main.0464620e.chunk.css.map",
+    "static/js/2.5e925dca.chunk.js.LICENSE.txt": "/filter-airports/static/js/2.5e925dca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.702308df.js",
+    "static/js/2.5e925dca.chunk.js",
+    "static/css/main.0464620e.chunk.css",
+    "static/js/main.b867257c.chunk.js"
+  ]
+}
