@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/filter-airports/static/css/main.0a54132f.chunk.css",
-    "main.js": "/filter-airports/static/js/main.23de9ba1.chunk.js",
-    "main.js.map": "/filter-airports/static/js/main.23de9ba1.chunk.js.map",
+    "main.css": "/filter-airports/static/css/main.86ce96ec.chunk.css",
+    "main.js": "/filter-airports/static/js/main.e2862edf.chunk.js",
+    "main.js.map": "/filter-airports/static/js/main.e2862edf.chunk.js.map",
     "runtime-main.js": "/filter-airports/static/js/runtime-main.702308df.js",
     "runtime-main.js.map": "/filter-airports/static/js/runtime-main.702308df.js.map",
     "static/js/2.5e925dca.chunk.js": "/filter-airports/static/js/2.5e925dca.chunk.js",
     "static/js/2.5e925dca.chunk.js.map": "/filter-airports/static/js/2.5e925dca.chunk.js.map",
     "index.html": "/filter-airports/index.html",
-    "static/css/main.0a54132f.chunk.css.map": "/filter-airports/static/css/main.0a54132f.chunk.css.map",
+    "static/css/main.86ce96ec.chunk.css.map": "/filter-airports/static/css/main.86ce96ec.chunk.css.map",
     "static/js/2.5e925dca.chunk.js.LICENSE.txt": "/filter-airports/static/js/2.5e925dca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.702308df.js",
     "static/js/2.5e925dca.chunk.js",
-    "static/css/main.0a54132f.chunk.css",
-    "static/js/main.23de9ba1.chunk.js"
+    "static/css/main.86ce96ec.chunk.css",
+    "static/js/main.e2862edf.chunk.js"
   ]
 }
