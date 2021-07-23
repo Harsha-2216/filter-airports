@@ -1,4 +1,4 @@
-# React Component to filter Airports
+# React Component to Filter Airports data
 
 This project demonstrate the functionality like pagination and filtering data which are required when the user has lots of data to process.
 
