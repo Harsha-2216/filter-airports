@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/filter-airports/static/css/main.8a402e90.chunk.css",
+    "main.css": "/filter-airports/static/css/main.79afa123.chunk.css",
     "main.js": "/filter-airports/static/js/main.125a3743.chunk.js",
     "main.js.map": "/filter-airports/static/js/main.125a3743.chunk.js.map",
     "runtime-main.js": "/filter-airports/static/js/runtime-main.702308df.js",
@@ -8,13 +8,13 @@
     "static/js/2.5e925dca.chunk.js": "/filter-airports/static/js/2.5e925dca.chunk.js",
     "static/js/2.5e925dca.chunk.js.map": "/filter-airports/static/js/2.5e925dca.chunk.js.map",
     "index.html": "/filter-airports/index.html",
-    "static/css/main.8a402e90.chunk.css.map": "/filter-airports/static/css/main.8a402e90.chunk.css.map",
+    "static/css/main.79afa123.chunk.css.map": "/filter-airports/static/css/main.79afa123.chunk.css.map",
     "static/js/2.5e925dca.chunk.js.LICENSE.txt": "/filter-airports/static/js/2.5e925dca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.702308df.js",
     "static/js/2.5e925dca.chunk.js",
-    "static/css/main.8a402e90.chunk.css",
+    "static/css/main.79afa123.chunk.css",
     "static/js/main.125a3743.chunk.js"
   ]
 }
