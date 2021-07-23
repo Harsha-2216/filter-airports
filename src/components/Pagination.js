@@ -7,20 +7,20 @@ export default function Pagination({ currentPage, setCurrentPage, indexOfFirstRe
   return (
     <div className="pagination">
       {currentPage - 1 > 0 ? (
-        <i className="cursor-pointer fas fa-arrow-left fa-2x" onClick={() => paginate(currentPage - 1)}></i>
+        <i className="cursor-pointer fas fa-arrow-left fa-2x icons" onClick={() => paginate(currentPage - 1)}></i>
       ) : (
         <>&nbsp;</>
       )}
-      <span>
+      <span className="pagination-text">
         Showing &nbsp;
-        <span className="font-weight-bold">
+        <span className="font-weight-bold pagination-text">
           {indexOfFirstRecord + 1} - {indexOfLastRecord > search(data).totalAirports ? search(data).totalAirports : indexOfLastRecord}
           &nbsp;
         </span>
-        of <span className="font-weight-bold">{search(data).totalAirports} </span>results
+        of <span className="font-weight-bold pagination-text">{search(data).totalAirports} </span>results
       </span>
       {currentPage * airportsPerPage < search(data).totalAirports ? (
-        <i className="cursor-pointer fas fa-arrow-right fa-2x" onClick={() => paginate(currentPage + 1)}></i>
+        <i className="cursor-pointer fas fa-arrow-right fa-2x icons" onClick={() => paginate(currentPage + 1)}></i>
       ) : (
         <>&nbsp;</>
       )}

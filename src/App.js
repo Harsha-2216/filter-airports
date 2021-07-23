@@ -90,7 +90,7 @@ function App() {
           <input type="search" value={searchQuery} onChange={(e) => setSearchQuery(e.target.value)} />
         </div>
       </div>
-      <label htmlFor="airport__container-records">Show Records:</label>
+      <label htmlFor="airport__container-records">Show Records: &nbsp;</label>
 
       <select
         name="airport__container-records"
