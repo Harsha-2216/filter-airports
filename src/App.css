@@ -26,7 +26,6 @@
 .airports__action label {
   text-transform: capitalize;
   margin-right: 0.625rem;
-  font-size: 0.8rem;
 }
 
 .airports__action input[type="search"]:focus-visible,
@@ -57,5 +56,8 @@
   }
   .airports__container {
     padding: 1.25rem 0.8rem !important;
+  }
+  .airports__action label {
+    font-size: 0.85rem;
   }
 }
